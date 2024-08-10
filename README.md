@@ -1,8 +1,18 @@
-# React + Vite
+# Gemini-Clone
+<b>Gemini-Clone</b> is a modern implementation of the Gemini protocol, designed to provide a simple, efficient, and accessible browsing experience. This project aims to create a lightweight and user-friendly alternative to traditional web browsing, focusing on minimalism and speed.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+Minimalist Design: Emphasizes a clean and straightforward user interface.
+Fast Performance: Optimized for quick page loads and efficient resource usage.
+Easy Setup: Simple installation and configuration process.
+Compatibility: Supports basic Gemini protocol features, ensuring a broad range of content can be accessed.
 
-Currently, two official plugins are available:
+## To access, please visit this link
+https://alea-progaming.github.io/gemini-clone
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Acknowledgements
+This project was developed based on the tutorial “Build a Gemini Protocol Server in Ruby” on YouTube. Special thanks to the tutorial creator for their valuable guidance and insights.
+
+![image](https://github.com/user-attachments/assets/0aa5c426-07ca-4759-9110-7868500669d7)
+![image](https://github.com/user-attachments/assets/0de3ea9d-0509-44ae-81a3-bfa40a91ed21)
